@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 57,
+    "left": 0,
+    "width": 1414,
+    "height": 1885,
+    "isRotated": true,
+    "originalWidth": 1414,
+    "originalHeight": 2000
+  },
+  "imagePath": "image-targets/IMG Ficha tenis_luminance.jpg",
+  "metadata": null,
+  "name": "IMG Ficha tenis",
+  "resources": {
+    "originalImage": "IMG Ficha tenis_original.jpg",
+    "croppedImage": "IMG Ficha tenis_cropped.jpg",
+    "thumbnailImage": "IMG Ficha tenis_thumbnail.jpg",
+    "luminanceImage": "IMG Ficha tenis_luminance.jpg"
+  },
+  "created": 1795357642774,
+  "updated": 1795357642774
+}
